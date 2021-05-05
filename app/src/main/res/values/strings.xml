@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">EplTeams</string>
+
+    <string name="man_u">Man United</string>
+    <string name="liverpool">Liverpool</string>
+    <string name="man_city">Man City</string>
+    <string name="chelsea">Chelsea</string>
+    <string name="arsenal">Arsenal</string>
+    <string name="tottenham">Tottenham</string>
+    <string name="leicester">Leicester</string>
+    <string name="aston_villa">Aston Villa</string>
+    <string name="everton">Everton</string>
+    <string name="west_ham">West Ham</string>
+</resources>
